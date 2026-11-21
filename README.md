@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&section=header&text=Srinivasan%20N&fontSize=44&fontColor=F8FAFC&fontAlignY=45&desc=AI%2FML%20Engineer%20%C2%B7%20Frontend%20Developer&descAlignY=70&descSize=16&descColor=38BDF8" width="100%" alt="Srinivasan N"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&section=header&text=Srinivasan%20N&fontSize=44&fontColor=F8FAFC&fontAlignY=45&desc=AI%2FML%20Engineer%20%C2%B7%20Backend%20Developer&descAlignY=70&descSize=16&descColor=38BDF8" width="100%" alt="Srinivasan N"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srini1185v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
