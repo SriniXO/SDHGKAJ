@@ -65,4 +65,3 @@ I'm a B.Tech Computer Science student at **SRM Institute of Science and Technolo
 
 ---
 
-en, write the code."</i> — John Johnson</p>
