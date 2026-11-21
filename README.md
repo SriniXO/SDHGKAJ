@@ -61,19 +61,8 @@ I'm a B.Tech Computer Science student at **SRM Institute of Science and Technolo
   </tr>
 </table>
 
-<p align="center"><sub>More at <a href="https://github.com/SDHGKAJ?tab=repositories">github.com/SDHGKAJ</a></sub></p>
+<p align="center"><sub>More at <a href="https://github.com/SriniXO?tab=repositories">github.com/SriniXO</a></sub></p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sdhgkaj&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhgkaj&layout=compact&langs_count=8&theme=transparent&title_color=38BDF8&text_color=94A3B8&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sdhgkaj&theme=transparent&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center"><i>"First, solve the problem. Then, write the code."</i> — John Johnson</p>
+en, write the code."</i> — John Johnson</p>
